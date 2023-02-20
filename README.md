@@ -16,28 +16,25 @@ Since some charging stations are removed in the metaheuristic and the chargers a
 ## Results
 
 Figure 1: Construction Heuristic Results for Network 1  
-![alt text](https://imgur.com/xTsC876)
 
-Figure 2: Construction Heuristic Results for Network 2
-![alt text](https://imgur.com/nzMtJa4)
+![alt text](https://i.imgur.com/xTsC876.png)
 
-Figure 3: Construction Heuristic Results for Network 1  
-![alt text](https://imgur.com/Ga5HA0j)
+Figure 2: Simulated Annealing  Metaheuristic Results for Network 1 
 
-Figure 4: Simulated Annealing  Metaheuristic Results for Network 1    	
-![alt text](https://imgur.com/8TeYGeb)
+![alt text](https://i.imgur.com/8TeYGeb.png)
 
-Figure 5: Simulated Annealing  Metaheuristic Results for Network 2 
-![alt text](https://imgur.com/JcFRJNw)
+Figure 3: Construction Heuristic Results for Network 2
 
-Figure 6: Simulated Annealing  Metaheuristic Results for Network 3 
-![alt text](https://imgur.com/ad9EgjD)
+![alt text](https://i.imgur.com/Ga5HA0j.png)
 
-Figure 7: Simulated Annealing Metaheuristic Results for Network 1 with alpha and temperature values that give the optimal Heuristic Cost
-![alt text](https://imgur.com/m1BvFR3)
+Figure 4: Simulated Annealing  Metaheuristic Results for Network 2
 
-Figure 8: Network 1 solution using Gurobi Solver
-![alt text](https://imgur.com/tl0Jtij)
+![image](https://i.imgur.com/MakfLpi.png)
+
+
+Figure 5: Network 1 solution using Gurobi Solver
+
+![alt text](https://i.imgur.com/tl0Jtij.png)
 
 
 ## License
