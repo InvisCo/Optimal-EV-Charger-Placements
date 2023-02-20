@@ -302,3 +302,4 @@ TSWLatexianTemp*
 
 # Secrets
 secrets.json
+secrets.json.template
